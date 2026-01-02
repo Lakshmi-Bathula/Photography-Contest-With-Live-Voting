@@ -2,7 +2,7 @@
 **📸 Photography Contest with Live Voting**
 
 
-**📌 Overview**
+**📌Overview**
 
 This project is a full-stack web application that allows users to participate in photography contests and vote in real time. It includes an admin dashboard for contest management, a user interface for submissions, and a live voting system powered by WebSockets. The application is designed to provide a seamless, interactive contest experience.
 
